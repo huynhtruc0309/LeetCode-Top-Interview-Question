@@ -1,3 +1,2 @@
 # LeetCode-Top-Interview-Question
-Well someday I will update this repo
-Someday...
+
